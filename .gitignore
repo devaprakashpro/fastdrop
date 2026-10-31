@@ -1,0 +1,10 @@
+dist/
+*.exe
+node_modules/
+build/
+.gradle/
+android/app/build/
+android/.gradle/
+*.apk
+.vscode/
+.idea/
